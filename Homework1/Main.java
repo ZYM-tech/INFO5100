@@ -17,6 +17,10 @@ public class Main {
         //Question 4 Testcase
         String s = "!AabT.";
         String t = "!AabcT.";
-        System.out.println(Question4.isContain(s,t));
+        System.out.println("Question 4: "+Question4.isContain(s,t));
+
+        //Question 5 Testcase
+        String  str = "A2bb2d4";
+        System.out.println("Question 5: "+Question5.isFollowedDigit(str));
     }
 }

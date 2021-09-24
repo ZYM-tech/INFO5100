@@ -2,7 +2,12 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args){
-        int[] nums = {1,2,3,4,5};
-        System.out.println("Question 1: "+ Question1.sum(nums));
+        //Question 1 Testcase
+        int[] nums1 = {1,2,3,4,5};
+        System.out.println("Question 1: "+ Question1.sum(nums1));
+
+        //Question 2 Testcase
+        int[] nums2 = {-7,-3,2,3,11};
+        System.out.println("Question 2: "+ Arrays.toString(Question2.sqsort(nums2)));
     }
 }

@@ -9,5 +9,9 @@ public class Main {
         //Question 2 Testcase
         int[] nums2 = {-7,-3,2,3,11};
         System.out.println("Question 2: "+ Arrays.toString(Question2.sqsort(nums2)));
+
+        //Question 3 Testcase
+        int[] nums3 = {2,3,4,2,2,3,5,7};
+        System.out.println("Question 3: "+ Question3.firstNonRepeated(nums3));
     }
 }

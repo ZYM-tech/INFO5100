@@ -15,8 +15,8 @@ public class Main {
         System.out.println("Question 3: "+ Question3.firstNonRepeated(nums3));
 
         //Question 4 Testcase
-        String s = "ab";
-        String t = "abc";
+        String s = "!AabT.";
+        String t = "!AabcT.";
         System.out.println(Question4.isContain(s,t));
     }
 }

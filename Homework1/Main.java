@@ -1,7 +1,7 @@
 /*
 import java.util.Arrays;
 
-public class ShapeTester {
+public class HW2_Main {
     public static void main(String[] args){
         //Question 1 Testcase
         int[] nums1 = {1,2,3,4,5};

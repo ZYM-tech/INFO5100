@@ -1,4 +1,6 @@
-public class ShapeTester {
+public class HW2_Main {
+    //region ShapeTester
+    /*
     public static void main(String[] args){
         HW2_Q1.Shape shape1 = new HW2_Q1.Shape("Shape1", "pink");
         System.out.println("shape1");
@@ -22,5 +24,17 @@ public class ShapeTester {
         HW2_Q1.Square square2 = new HW2_Q1.Square("Square" , "black", 7);
         System.out.println("square2");
         System.out.println("area : " + square2.getArea() + " perimeter : " + square2.getPerimeter()); System.out.println(square2.printShape());
+    }
+    */
+    ///endregion
+
+    //Sum tester
+    public static void main(String[] args){
+        HW2_Q2.Sum sum = new HW2_Q2.Sum();
+        System.out.println(sum.add(2, 3)); //output : 5
+        System.out.println(sum.add(4, 9, 12));//output : 25
+        System.out.println(sum.add(4, 5.0));//output : 9.0
+        System.out.println(sum.add(15.5, 5));//output : 20.5
+        System.out.println(sum.add(1.0, 6.4));//output : 7.4
     }
 }

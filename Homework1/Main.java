@@ -1,6 +1,7 @@
+/*
 import java.util.Arrays;
 
-public class Main {
+public class ShapeTester {
     public static void main(String[] args){
         //Question 1 Testcase
         int[] nums1 = {1,2,3,4,5};
@@ -24,3 +25,4 @@ public class Main {
         System.out.println("Question 5: "+Question5.isFollowedDigit(str));
     }
 }
+*/

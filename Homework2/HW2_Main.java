@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class HW2_Main {
     //region ShapeTester
     /*
@@ -28,7 +30,8 @@ public class HW2_Main {
     */
     ///endregion
 
-    //Sum tester
+    //region Sum tester
+    /*
     public static void main(String[] args){
         HW2_Q2.Sum sum = new HW2_Q2.Sum();
         System.out.println(sum.add(2, 3)); //output : 5
@@ -36,5 +39,14 @@ public class HW2_Main {
         System.out.println(sum.add(4, 5.0));//output : 9.0
         System.out.println(sum.add(15.5, 5));//output : 20.5
         System.out.println(sum.add(1.0, 6.4));//output : 7.4
+    }*/
+    ///endregion
+
+    public static void main(String[] args){
+        //LeetCode 1 Test case
+        int[][] matrix = new int[][] {{1,2,3},{4,5,6},{7,8,9}};
+        System.out.println(Arrays.deepToString(HW2_LC1.transpose(matrix)));
+
+
     }
 }

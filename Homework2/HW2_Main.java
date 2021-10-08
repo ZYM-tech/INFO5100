@@ -68,5 +68,9 @@ public class HW2_Main {
         int[][] matrix1 = {{1,2,3},{4,5,6},{7,8,9}};
         System.out.println(Arrays.toString(HW2_LC5.spiral(matrix1).toArray()));
 
+        //LeetCode 6  Test case
+        String s = "egg";
+        String t = "add";
+        System.out.println(HW2_LC6.isIsomorphic(s,t));
     }
 }

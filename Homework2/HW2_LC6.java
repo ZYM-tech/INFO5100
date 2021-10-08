@@ -14,6 +14,7 @@ public class HW2_LC6 {
         }
         return arr;
     }
+
     public static boolean isIsomorphic(String s, String t){
         return Arrays.equals(tansform(s),tansform(t));
     }

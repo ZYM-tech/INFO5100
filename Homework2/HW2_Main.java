@@ -52,7 +52,12 @@ public class HW2_Main {
         System.out.println(wordDict[0]);
         String word1 = "coding";
         String word2 = "practice";
-        System.out.println(HW2_LC2.distance(wordDict,word1,word2));;
+        System.out.println(HW2_LC2.distance(wordDict,word1,word2));
+
+        //LeetCode 3  Test case
+        int[] nums = {0,1,0,3,12};
+        HW2_LC3.moveZeroes(nums);
+        System.out.println(Arrays.toString(nums));
 
 
     }

@@ -63,5 +63,10 @@ public class HW2_Main {
         int[][] nums1 = {{1,2,3},{4,5,6},{7,8,9}};
         HW2_LC4.rotateImg(nums1);
         System.out.println(Arrays.deepToString(nums1));
+
+        //LeetCode 5  Test case
+        int[][] matrix1 = {{1,2,3},{4,5,6},{7,8,9}};
+        System.out.println(Arrays.toString(HW2_LC5.spiral(matrix1).toArray()));
+
     }
 }

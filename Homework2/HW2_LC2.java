@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-
+//Time: O(n) Space: O(1)
 public class HW2_LC2 {
     public static int distance(String[] wordsDict, String word1, String word2){
         int point1 = -1;

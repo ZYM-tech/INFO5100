@@ -47,6 +47,13 @@ public class HW2_Main {
         int[][] matrix = new int[][] {{1,2,3},{4,5,6},{7,8,9}};
         System.out.println(Arrays.deepToString(HW2_LC1.transpose(matrix)));
 
+        //LeetCode 2 Test case
+        String[] wordDict = new String[]{"practice","makes","perfect", "coding", "makes"};
+        System.out.println(wordDict[0]);
+        String word1 = "coding";
+        String word2 = "practice";
+        System.out.println(HW2_LC2.distance(wordDict,word1,word2));;
+
 
     }
 }

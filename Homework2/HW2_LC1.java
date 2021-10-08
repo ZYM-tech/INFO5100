@@ -1,3 +1,4 @@
+//Time: O(n^2) Space: O(n^2)
 public class HW2_LC1 {
     public static int[][] transpose(int[][] matrix){
         int m = matrix.length;

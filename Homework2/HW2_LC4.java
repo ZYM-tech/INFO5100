@@ -1,4 +1,5 @@
 public class HW2_LC4 {
+    //Time: O(n)  Space: O(1)
     public static void rotateImg(int[][] matrix){
         int side = matrix.length;
         int left = 0;

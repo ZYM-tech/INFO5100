@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-
+//Time: O(n)  Space: O(n)
 public class HW2_LC5 {
     public static List<Integer> spiral(int[][] matrix){
         ArrayList<Integer> arr = new ArrayList<>();

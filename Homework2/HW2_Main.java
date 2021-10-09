@@ -77,5 +77,9 @@ public class HW2_Main {
         String num1 = "11";
         String num2 = "123";
         System.out.println(HW2_LC7.addSum(num1, num2));
+
+        //LeetCode 8  Test case
+        String s8 = "A man, a plan, a canal: Panama";
+        System.out.println(HW2_LC8.isPalindrome(s8));
     }
 }

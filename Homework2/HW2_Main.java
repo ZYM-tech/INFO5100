@@ -72,5 +72,10 @@ public class HW2_Main {
         String s = "egg";
         String t = "add";
         System.out.println(HW2_LC6.isIsomorphic(s,t));
+
+        //LeetCode 7  Test case
+        String num1 = "11";
+        String num2 = "123";
+        System.out.println(HW2_LC7.addSum(num1, num2));
     }
 }

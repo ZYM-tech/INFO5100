@@ -81,5 +81,12 @@ public class HW2_Main {
         //LeetCode 8  Test case
         String s8 = "A man, a plan, a canal: Panama";
         System.out.println(HW2_LC8.isPalindrome(s8));
+
+        //LeetCode 9  Test case
+        String s9 = "the sky is blue";
+        System.out.println(HW2_LC9.reverseWords(s9));
+
+
+        //LeetCode 10  Test case
     }
 }

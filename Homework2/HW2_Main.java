@@ -86,7 +86,8 @@ public class HW2_Main {
         String s9 = "the sky is blue";
         System.out.println(HW2_LC9.reverseWords(s9));
 
-
         //LeetCode 10  Test case
+        char[] chars = {'a','a','b','b','c','c','c'};
+        System.out.println(HW2_LC10.compress(chars));
     }
 }

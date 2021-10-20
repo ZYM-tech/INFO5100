@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class HW2_Main {
     //region ShapeTester
     /*
-    public static void main(String[] args){
+    public static void Client(String[] args){
         HW2_Q1.Shape shape1 = new HW2_Q1.Shape("Shape1", "pink");
         System.out.println("shape1");
         System.out.println(shape1.printShape());
@@ -32,7 +32,7 @@ public class HW2_Main {
 
     //region Sum tester
     /*
-    public static void main(String[] args){
+    public static void Client(String[] args){
         HW2_Q2.Sum sum = new HW2_Q2.Sum();
         System.out.println(sum.add(2, 3)); //output : 5
         System.out.println(sum.add(4, 9, 12));//output : 25

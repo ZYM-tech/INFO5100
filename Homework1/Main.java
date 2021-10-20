@@ -2,7 +2,7 @@
 import java.util.Arrays;
 
 public class HW2_Main {
-    public static void main(String[] args){
+    public static void Client(String[] args){
         //Question 1 Testcase
         int[] nums1 = {1,2,3,4,5};
         System.out.println("Question 1: "+ Question1.sum(nums1));

@@ -3,16 +3,14 @@ import Midterm_Q1.Fiction;
 public class Midterm_Main {
     public static void main(String[] args) {
         //Question 1
-        Fiction f1 = new Fiction("title", 2.2,"2009");
+        Fiction f1 = new Fiction("Fiction", 2.2,"2009");
         System.out.println(f1.description());
-
 
         //Question 2
         Printer p1;
         // refers to the only object of Database
         p1= Printer.getInstance();
         p1.getConnection();
-
 
         //Question 3
         int[] nums = {1,3,-1,3,4,-1};

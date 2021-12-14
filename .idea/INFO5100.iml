@@ -11,7 +11,16 @@
       <sourceFolder url="file://$MODULE_DIR$/Homework5/Q1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Homework5/Q2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Homework5/Q3" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Homework4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Homework4/Q1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Homework4/Q2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Homework5/Q1_self" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Homework6/Q1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Homework6/Q2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/final/Q1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/final/Q2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/final/Q3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/final/Q4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/final/Q5" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="11.0.5" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />

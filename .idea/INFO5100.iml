@@ -21,6 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/final/Q3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/final/Q4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/final/Q5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java 8 Streams" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="11.0.5" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
